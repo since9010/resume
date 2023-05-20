@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+
+*{
+font-family: 'PT Serif', serif;
+}
+
+body{
+    min-width: fit-content;
+    background-color: #F0F8FF;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #545454;
+    border-bottom: 2px solid #F8F8FF;
+    margin-bottom: 16px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+}
+
+section{s
+    margin-bottom: 24px;
+}
+footer { 
+    text-align: center;
+    background-color: #87CEFA;
+    color: #414141;
+    font-size: 12px;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+}
+.header{
+    text-align: center;
+    background-color: #87CEFA;
+    color: #414141;
+    font-size: 12px;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+}
+.container{
+    border: 5px solid #000080;
+    background-color: white;
+    width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 70px;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.inc-text{
+    font-size: 20px;
+    color: #414141;
+    font-weight: bold;
+    padding-right: 30px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.contact-text{
+    font-size: 17px;
+    color: #414141;
+    padding-right: 30px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.about-me-text{
+    font-size: 18px;
+    line-height: 18px;
+    color: #878787;
+}
+.title-text{
+    font-size: 22px;
+    font-weight: bold;
+    color: #191970;
+    float: left;
+}
+.year-text{
+    font-size: 20px;s
+    font-weight: bold;
+    color: #0000CD;
+    float: right;
+}
+.float-wrap{
+    overflow: hidden;
+}
+.desc-text{
+    font-size: 14px;
+    color: black;
+}
+
+.title-box {
+    text-align: right;
+}
+
+.img_aboutme{
+    width: 150px;
+    height: 165px;
+    float: left;
+    margin-right: 20px;
+}
